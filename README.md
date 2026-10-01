@@ -142,7 +142,7 @@ reto7_Analisis_datos_no_estructurados/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/jdthgp27/reto7_Analisis_datos_no_estructurados.git
+git clone https://github.com/everest9957/reto7_Analisis_datos_no_estructurados.git
 cd reto7_Analisis_datos_no_estructurados
 
 # 2. Crear entorno virtual
@@ -289,9 +289,9 @@ Este proyecto es de **uso educativo**. Los datasets originales pertenecen a sus 
 
 **Judit Giravent Pineda**
 
-- GitHub: [@jdthgp27](https://github.com/jdthgp27)
+- GitHub: [@everest9957](https://github.com/everest9957)
 - LinkedIn: [linkedin.com/in/judit-giravent-27b167156](https://linkedin.com/in/judit-giravent-27b167156)
-- Email: jdthgp27@gmail.com
+- Email: everest9957@gmail.com
 
 ---
 
